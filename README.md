@@ -26,4 +26,4 @@ Adobe After Effects CC and later. Supports videos, images, audio, 3D models, and
 ## Notes
 Unused compositions are moved to a dedicated folder. Source files are not modified, only the project structure.
 
-# FEEL FREE TO MAKE THIS TOOL BETTER
+# FEEL FREE TO MAKE THIS TOOL BETTER, THIS WILL BE DELETED SOON TO BE USED IN EXCALIBURFX? FEEL FREE TO JOIN
